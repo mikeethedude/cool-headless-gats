@@ -1,0 +1,4 @@
+name: cool-wordpress-app
+recipe: wordpress
+config:
+  webroot: .
